@@ -1,5 +1,6 @@
+![Banner](./assets/APP-gestion-usuario-banner.png)
+
 #  Club de Atletismo
-![home](./images/home.png)
 ## Descripción del Proyecto
 
 **App** es una aplicación de gestión que utiliza una interfaz de usuario desarrollada en **Windows Forms** 
@@ -65,5 +66,6 @@ Esta carpeta contiene el script SQL para la creación de la base de datos en **M
 ## 📌 Estado del proyecto
 Proyecto funcional y ampliable
 
+![home](./images/home.png)
 
 
