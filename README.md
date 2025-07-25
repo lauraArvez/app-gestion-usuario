@@ -49,3 +49,29 @@ la lógica de negocio, además de interactuar con la base de datos **MySQL**.
 
 Esta carpeta contiene el script SQL para la creación de la base de datos en **MySQL**. 
 
+### 🔍 Endpoints principales
+
+| Método | Endpoint                | Descripción                 |
+|--------|-------------------------|-----------------------------|
+| GET    | `/usuarios`             | Listar todos los usuarios   |
+| GET    | `/usuarios/{id}`        | Obtener usuario por ID      |
+| POST   | `/usuarios`             | Crear nuevo usuario         |
+| PUT    | `/usuarios/{id}`        | Actualizar usuario por ID   |
+| DELETE | `/usuarios/{id}`        | Eliminar usuario por ID     |
+
+---
+
+### 📦 Estructura del proyecto
+app-gestion-usuario/
+┣ controller/ # Lógica REST
+┣ service/ # Lógica de negocio
+┣ model/ # Entidades
+┣ repository/ # Repositorio JPA
+┗ resources/
+┗ application.properties
+
+## 📌 Estado del proyecto
+Proyecto funcional y ampliable
+
+
+
