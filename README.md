@@ -61,14 +61,6 @@ Esta carpeta contiene el script SQL para la creación de la base de datos en **M
 
 ---
 
-### 📦 Estructura del proyecto
-app-gestion-usuario/
-┣ controller/ # Lógica REST
-┣ service/ # Lógica de negocio
-┣ model/ # Entidades
-┣ repository/ # Repositorio JPA
-┗ resources/
-┗ application.properties
 
 ## 📌 Estado del proyecto
 Proyecto funcional y ampliable
